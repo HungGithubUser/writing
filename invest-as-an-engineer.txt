@@ -1,0 +1,25 @@
+[Invest as an engineer]
+
+This is draft of what I will say at the lightning talk for East Agile on Monday 5 April 2025
+
+When I was younger (teenager-ish), my sister once told me that money will lose its value over time. That's the way the Government pushes people to work to avoid stagnation, and something something. My sister was studying Finance at University and that's what she learned, she was not a very good teacher, so I can’t remember much of what she tried to teach my teenage self. That was the origin of my knowledge about "investing".
+
+Fast forward to 2019, when I made my first money via internship, I noticed "investing" once again, in the form of "my hard earned money will lose its value over time, so what should I do to avoid this problem". The thing back then was crypto and stock (this was before the Covid, and at the peak of Crypto hype). So I went for both, with the little money I had, some on BNB, some on Index and Mutual funds.
+
+I read books and watched Youtube videos. People were idealizing Warren Buffett and Benjamin Graham at the time. So I read about "Value investing principles" from these 2. I understood the essence, I tried to practice some principles. But as an engineer, I did not share the feeling. The practice felt so much work, so many things could go wrong for such a small win.
+
+I want higher conviction and control, I want to be on the steering wheel, be part of what will generate value. "Value investing" was far from promising any of that. What the 2 investors did was read financial reports, practice statistical analysis and emotional control, then put a price on the companies/assets, and buy the ones that are undervalued to later sell at a higher price. This act, for me, is boring.
+
+Then I came across the legendary Sam Altman (then later Paul Graham, Ron Conway, Peter Thiel, and all the YCombinator/Silicon Valley legends) with a much different POV and much clearer visions, which felt so much "home" to an engineer. The idea is: Engineers are supposed to be believers and makers of the future. You should be confident and absolute about the future. You can be wrong in the details, so it's important to be confident and flexible, but you have to have strong belief regardless of how bad the situation currently is. Because you can, and should, create the future.
+
+What does that have to do with investing you may ask? Well, for me, this translates to: “It is more fun to put money in the things you believe in, regardless of winning or losing, than to try and find the things that are under priced to shove money in. And in the long run, this will generate much more benefit for you and the world.”.
+
+It changes my philosophical belief from: “Spend on what generates the most future expected value for myself” to “Spend on what generates the most future expected value for the world, and I will get back so much beyond what I expect compared to value investing”. And also increases my confidence in very long term investments.
+
+“Future expected value for the world” sounds too complicated, let’s translate to something more concrete. 
+
+I have been spending money on my girlfriend studies, building our relationship, our dates, her spending. And in my belief, this is an investment. Because it is net positive for the world, if my girlfriend dumps me I will lose the money, yet it is still worth the investment. And the most important thing is: It is more fun to spend money on my girlfriend than the stock market.
+
+On the stock market, I have been buying all the telecommunications companies stock with the sole belief that AI will generate much more needs for the internet than existing. Everything will be connected to foundational models, your TV, your cars, everything. I don’t read any fundamental analysis and never once look at the list of CEOs of these companies. P/E numbers don’t matter to me. What I care about is: which company will benefit the world following the future of AI.
+
+You don’t have to follow my investments, what’s key here is the mindset change from the public knowledge of “value investing” to “conviction investing”. And be genuinely good for the world. Because engineers, by nature, are strong believers.
