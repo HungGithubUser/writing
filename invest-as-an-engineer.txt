@@ -1,4 +1,4 @@
-[Invest as an engineer]
+[Invest as an Engineer]
 
 This is the script of my lightning talk at East Agile on Monday 5 April 2025.
 
