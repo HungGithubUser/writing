@@ -1,6 +1,5 @@
 [Commit exclusively in a relationship]
 
-Deciding to be exlusive is almost an irreversable decision because we can't rotate time backward and we almost can't date someone a second time. Irreversable decisions are frustating, intrinsically because they are irreversable, insidiously because there is a hard deadline and not acting is also an irreversable decision. Worse, the impact of these decisions are impossible to measure at the time the deadline hits.
+Time for human is irreversible and limited. Those who care about how they live, care deeply about how they spend their time. If you rank the importance of your relationships to the time it takes of your life, marriage is unarguably on the top 3. And because marriage is so important, the one you marry to will so be so important.
 
-In exclusive relationship establishment, the default not acting is equivolent to either part ways or extend the deadline. Extending the deadline and keep on not acting means to part ways at a later time. But we can't compress not acting to part ways because after extending the deadline we *can* make different decision, and part ways early means we save time.
-
+Any characteristic of a person will be suitable for a particular goal, killing serially will be very suitable if you hate human. In the journey of finding your suitable significant other, it is beneficial to define a successful marriage. A successful marriage lasts, you don't outlive the marriage.
