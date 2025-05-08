@@ -2,5 +2,6 @@
     "github.copilot.enable": {
         "*": false,
     },
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "editor.fontSize": 20
 }
