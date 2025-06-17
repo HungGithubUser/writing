@@ -1,7 +1,0 @@
-[Transcend over iterate]
-
-(This is the script of my lightning talk at East Agile on Monday 24 June 2025)
-
-I worked as a professional software engineer for 5 years+ now, and everything I've seen is iteration. Software Engineering Agile principle for its good 20+ years has been intensely focus on making these iteration processes as future proof as possible by various techniques. Focusing on putting the MVP at the hand of the customer as fast as possible then iterate until the money runs out, or (very rarely) hitting ramen profitability and grow and keep iterating forever.
-
-There is nothing inherently wrong with iteration, if the problem you solve has real needs and you can provide the best solution. But the anyone in the field knows that the 2 prerequisite almost never go together. A problem obviously worth solving and is solvable will already be brilliantly solved. A problem not so obviously worth solving but solvable is risky, and don't mention unsolvable problems. So what's good with iteration
