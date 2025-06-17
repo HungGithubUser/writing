@@ -2,4 +2,6 @@
 
 AI is here and it's accelerating the workforce. I feel like living in prison without AI helping me in my work. And gradually people realize what used to be fast is now slow. This is not the first time acceleration happens. Acceleration has always been happening throughout the history of technical evolution. From broadcasting power of the internet, software delivery speed of browsers, abstractions and utilities of programming languages and now to AI. Every event horizon happens and people are fearful but turned out net much better, faster, richer.
 
-There is a special kind of skill seems to transfer throughout technical revolutions that is subtle but important: Simplification. If you want something and
+There is a special kind of skill transfer throughout technical revolutions that is subtle but important: simplification. Because of acceleration that simplification becomes important, when you describe what you want to happen in simple terms, you are already half way making it happen, and technology push the solution to your hands, this is embracing the technology. And the more important thing with simplification: solving important problems and transcend tends to happen in simpler terms. When adjacent problems combined, the definition of the problem becomes simpler, like a higher abstraction level. Bigger problem are harder, but defined simpler.
+
+So we know there are 2 benefits to simplification
