@@ -1,7 +1,8 @@
-[Transcend by simplify]
-AI is here and it's accelerating the workforce. And gradually people realize what used to be fast is now slow. This is not the first time acceleration happens. Acceleration has always been happening throughout the history of technical evolution. From broadcasting power of the internet, software delivery speed of browsers, abstractions and utilities of programming languages, mini computer and now to AI. Every event horizon happens and people are doubtful but never want to look back.
+[Human taste in the AI era]
 
-There is an important skill transfer throughout technical revolutions: simplification. When you describe what you want to happen in simple terms, you are already half way to making it happen, and embracing the technology pushes the the other half. Another surprising thing with simplification: Important problems appear when we simplify the problem statement. When adjacent problems combined, the definition of the problem becomes simpler, a higher abstraction level. Bigger problems are harder, but defined shorter.
+I have been questioned by someone curious to write about human taste in the AI era. This question is better learned by building than writing, but I think it would still be helpful writing out some building principles to get the goodness of human taste when it comes.
+
+- Simplification:
 
 This phenomenon becomes more apparent when AI standardizes the solution for existing problems. Every published golden standard get indexed, and answered when asked. But AI doesn't combine adjacent problems, not when it is tasked to solve problems. So we now need to do the combination and connect the dots ourselves. When adjacent problems are solved, the next step is to transcend: solve bigger problem by carefully combine and select the solutions. Like a step up in the ever increasing size of problem solved.
 
