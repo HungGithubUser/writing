@@ -2,14 +2,16 @@
 
 I have been questioned by a curious girl about human taste as an edge in the AI era. This question is better learned by building than writing, but I think it would still be helpful writing out some building principles to get the goodness of human taste when it comes. Then maybe I'll try to tackle the definition of "human taste" that is most useful.
 
-- Embrace technology, this goes without saying, not just AI but all the other technologies around. Use them with passion and use them with care, give technology and you time to co-adopt. But also be ruthless in cutting technologies that slow you down or take your precious time away.
+Embrace technology: This goes without saying, not just AI but all the other technologies. Use them with passion and use them with care, give AI and you time to co-adopt. But be ruthless in cutting technologies that slow you down or take your important time away.
 
-- Simplify what you want get done, then do it. Simplification has 2 advantages: Clear and precise context gives AI the best understanding to work. And you yourself understand what should be done. Understanding what you want get done is more important than AI doing it, it gives you clear thoughts on the expected outcome. If the problem is too big to simplify, break them down, divide and concur.
+Simplify what you want get done, then do it. Simplification has 2 advantages: Clear and precise context gives AI the best understanding to work. And clarity of thought allow you understand what should be done. Understanding what you want get done is more important than AI doing it, it gives you clear thoughts on the expected outcome. If the problem is too big to for a simple solution, break them down.
 
-- Occasionally think about where you're going and what the science is telling you as when things are being worked on by AI. This helps you connect the dots and group the results together for a nice solution to bigger problems
+Occasionally think about where you're going and what the science is telling you as when co-working with AI. Be consciously fanatic about excellence, and let your brain work on subconscious magic. This helps you connect the dots and group the results together for a nice solution to bigger problems.
 
-- Care about people: Human has an edge over AI at caring what other human thinks. Embrace this, keep racking your head and feel what will a human feel. Be a proxy for your user and use your product relentlessly.
+Care about people: Human has an edge over AI at caring what other human thinks. Embrace this, keep racking your head and feel what will a human feel. Be a proxy for your user and use your product relentlessly.
 
-- Wiggle the problem space if you can, most people keep on hammering the solution space, but sometimes a little perspective shift in the problem space is what needed for a significant gain.
+Wiggle the problem space if you can, most people keep on hammering the solution space, this is especially apparent in corporate environment. Sometimes a little shift in the problem space is what needed for a significant gain of excellence.
 
-- Do things that don't scale, Paul Graham was right, and he still is, AI or not
+Have deep conversations, not A/B testings. Paul Graham was right about do things that don't scale, the most striking thing about that is the conversation you have with your users. Or yourself becomes your own user, learn to love your product and be critical with it. Don't forget to be nice to yourself and others, be genuinely curious.
+
+
