@@ -1,0 +1,15 @@
+[Human taste in the AI era]
+
+I have been questioned by a curious girl about human taste as an edge in the AI era. This question is better learned by building than writing, but I think it would still be helpful writing out some building principles to get the goodness of human taste when it comes. Then maybe I'll try to tackle the definition of "human taste" that is most useful.
+
+- Embrace technology, this goes without saying, not just AI but all the other technologies around. Use them with passion and use them with care, give technology and you time to co-adopt. But also be ruthless in cutting technologies that slow you down or take your precious time away.
+
+- Simplify what you want get done, then do it. Simplification has 2 advantages: Clear and precise context gives AI the best understanding to work. And you yourself understand what should be done. Understanding what you want get done is more important than AI doing it, it gives you clear thoughts on the expected outcome. If the problem is too big to simplify, break them down, divide and concur.
+
+- Occasionally think about where you're going and what the science is telling you as when things are being worked on by AI. This helps you connect the dots and group the results together for a nice solution to bigger problems
+
+- Care about people: Human has an edge over AI at caring what other human thinks. Embrace this, keep racking your head and feel what will a human feel. Be a proxy for your user and use your product relentlessly.
+
+- Wiggle the problem space if you can, most people keep on hammering the solution space, but sometimes a little perspective shift in the problem space is what needed for a significant gain.
+
+- Do things that don't scale, Paul Graham was right, and he still is, AI or not
