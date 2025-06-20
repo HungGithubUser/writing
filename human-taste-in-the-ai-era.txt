@@ -1,6 +1,6 @@
 [Human taste in the AI era]
 
-I have been questioned by a curious girl about human taste as a competitive edge in the AI era. This question is better learned by building than writing, but I think it is still helpful writing out some building principles to get the goodness of human taste when it comes. At the end of the principle list, I will try to define "human taste" that is most useful.
+I have been questioned by a Trang about human taste as a competitive edge in the AI era. I think this question is better learned by building than writing, but I think it is still helpful writing out some building principles to get the goodness of human taste when it comes. At the end of the principle list, I will try to define "human taste" that is most useful.
 
 1. Embrace technology: This goes without saying, not just AI but all the other technologies. Use them with passion and care, give you and technologies time to co-adopt. Give yourself time to build on top of new platforms. Also, be ruthless in cutting technologies that slow you down or take your important time away.
 
