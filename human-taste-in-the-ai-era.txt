@@ -2,19 +2,19 @@
 
 I have been questioned by a curious girl about human taste as an edge in the AI era. This question is better learned by building than writing, but I think it is still helpful writing out some building principles to get the goodness of human taste when it comes. At the end, I will try to put the definition of "human taste" that is most useful.
 
-1. Embrace technology: This goes without saying, not just AI but all the other technologies. Use them with passion and care, give AI and you time to co-adopt. Also, be ruthless in cutting technologies that slow you down or take your important time away.
+1. Embrace technology: This goes without saying, not just AI but all the other technologies. Use them with passion and care, give you and technologies time to co-adopt. Give yourself time to build on top of new platforms. Also, be ruthless in cutting technologies that slow you down or take your important time away.
 
 2. Simplify what you want to get done, then do it. Simplification has 2 advantages: Clear and precise context gives AI the best condition to work. And clarity of thoughts allows you to figure the expected outcome in detail, and detail matters. If the problem is too big for a simple solution, break it down.
 
 3. Occasionally think about where you're going and what the science is telling you. Science guides you like a river flowing into the ocean, don't resist, embrace. But science is only reality revealed as things get worked on, it doesn't consciously lead to anywhere so you have to define the destination yourself.
 
-4. Be consciously fanatic about excellence, and let your brain work on the subconscious magic. This helps you connect the dots to solve a hard problem.
+4. Be consciously fanatic about excellence, and let your brain work on the subconscious magic. This helps you connect the dots to get to novel insights.
 
-5. Have deep conversations with your users, not A/B testing. Paul Graham was right about doing things that don't scale, the most striking thing about that is the quality of the conversation you have with your users, or you become the user, love your product and be critical with it for the better. Try to see if you remember the names of your users. Humans are better than AI at caring what other humans think and feel. Embrace this, keep racking your head to please your user and feel what a human feel.
+5. Have deep conversations with your users, not A/B testing. Paul Graham was right about doing things that don't scale, the most striking thing is the quality of conversations you have with your users, or you become the user, love your product and be critical with it for the better. Try to see if you remember the names of your users. Humans are better than AI at caring what other humans think and feel. Embrace this, keep racking your head to please your user and feel what a human feel.
 
 6. Wiggle the problem space if you can, most people keep on hammering the solution space, especially in corporate environments. Sometimes a little shift in the problem space is what’s needed for a significant gain of excellence.
 
-7. Vision in decades, then work in hours. Bias toward action, work with less information than you'd want and less certainty than you have. Move incrementally and bravely in darkness, keep caring for your user, again, that's your Northern Star.
+7. Vision in decades, then work in hours. Bias toward action, work with less information and certainty than what most people feel comfortable with. Move incrementally and bravely in darkness, keep caring for your user, again, that's your Northern Star.
 
 8. Embrace stupid-sounding ideas, especially when they come from sensible people. An idea is like a newborn baby, don't compare it to the standardized human running in the field. And stupid-sounding ideas coming from domain experts are valuable either way—wrong or right. If it's wrong, you'd probably make the same mistake. If it's right, it's a legend waiting to grow.
 
