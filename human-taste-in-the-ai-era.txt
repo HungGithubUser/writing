@@ -10,7 +10,7 @@ I have been questioned by a curious girl about human taste as an edge in the AI 
 
 4. Be consciously fanatic about excellence, and let your brain work on the subconscious magic. This helps you connect the dots to solve a hard problem.
 
-5. Have deep conversations with your users, not A/B testing. Paul Graham was right about doing things that don't scale, the most striking thing about that is the quality of the conversation you have with your users. Or you become the user, love your product and be critical with it for the better. Try to see if you remember the names of your users. Humans are better than AI at caring what other humans think and feel. Embrace this, keep racking your head to please your user and feel what a human feel.
+5. Have deep conversations with your users, not A/B testing. Paul Graham was right about doing things that don't scale, the most striking thing about that is the quality of the conversation you have with your users, or you become the user, love your product and be critical with it for the better. Try to see if you remember the names of your users. Humans are better than AI at caring what other humans think and feel. Embrace this, keep racking your head to please your user and feel what a human feel.
 
 6. Wiggle the problem space if you can, most people keep on hammering the solution space, especially in corporate environments. Sometimes a little shift in the problem space is what’s needed for a significant gain of excellence.
 
