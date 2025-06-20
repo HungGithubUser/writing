@@ -1,22 +1,22 @@
 [Human taste in the AI era]
 
-I have been questioned by a Trang about human taste as a competitive edge in the AI era. I think this question is better learned by building than writing, but I think it is still helpful writing out some building principles to get the goodness of human taste when it comes. At the end of the principle list, I will try to define "human taste" that is most useful.
+I have been questioned by a Trang about human taste as a competitive edge in the AI era. I think this question is better learned by building than writing, but I think it is still helpful writing out some building principles to follow to get the goodness of human taste when it comes. At the end of the principles list, I will try to define "Human taste in the AI era" that is most useful.
 
-1. Embrace technology: This goes without saying, not just AI but all the other technologies. Use them with passion and care, give you and technologies time to co-adopt. Give yourself time to build on top of new platforms. Also, be ruthless in cutting technologies that slow you down or take your important time away.
+1. Embrace technology: This goes without saying, not just AI but all the other technologies. Use them with passion and consciousness, give you and technologies time to co-adopt. Give yourself time to build on top of new platforms. Also, be ruthless in cutting technologies that slow you down or take your important time away.
 
-2. Simplify what you want to get done, then do it. Simplification has 2 advantages: Clear and precise context gives AI the best condition to work. And clarity of thoughts allows you to figure the expected outcome in detail, and detail matters. If the problem is too big for a simple solution, break it down.
+2. Simplify what you want to get done to the essence, simple sentences, then do it. Simple has 2 advantages: Clear and precise context gives AI the best condition to work. And simple thoughts allow you to figure and pin the expected outcome in detail, and detail matters. If the problem is too big for a simple solution, break it down.
 
-3. Occasionally think about where you're going and what the science is telling you. Science guides you like a river flow, sometimes backtracks, most of the time flows down the ocean, don't resist, embrace. But science is only reality revealed as things get worked on, it doesn't consciously lead to anywhere so you have to define the destination yourself.
+3. Occasionally think about where you're going and what the science is telling you. Science guides you like a river flow, sometimes backtracks, most of time flows down the ocean of truthfulness, don't resist, embrace. But science is only reality revealed as things get worked on, it doesn't consciously lead to anywhere so you have to define the destination yourself.
 
-4. Be consciously fanatic about excellence, and let your brain work on the subconscious magic. This helps you connect the dots to get to novel insights.
+4. Be consciously fanatic about excellence, and let your brain work on the subconscious magic. This helps you connect the dots to come up with novel insights.
 
-5. Have deep conversations with your users, not A/B testing. Paul Graham was right about doing things that don't scale, the most striking thing is the quality of conversations you have with your users, or you become the user, love your product and be critical with it for the better. Try to see if you remember the names of your users. Humans are better than AI at caring what other humans think and feel. Embrace this, keep racking your head to please your user and feel what a human feel.
+5. Have deep conversations with your users, not A/B testing. Paul Graham was right about doing things that don't scale, one of the most important attribute is the quality of conversations you have with your users, or you become the user, love your product and be critical with it for the better. Try to see if you remember the names of your users. Humans are better than AI at caring what other humans think and feel. Embrace this, keep racking your head to please your user and feel what a human feel.
 
 6. Wiggle the problem space if you can, most people keep on hammering the solution space, especially in corporate environments. Sometimes a little shift in the problem space is what’s needed for a significant gain of excellence.
 
 7. Vision in decades, then work in hours. Bias toward action, work with less information and certainty than what most people feel comfortable with. Move incrementally and bravely in darkness, keep caring for your user, again, that's your Northern Star.
 
-8. Embrace stupid-sounding ideas, especially when they come from sensible people. An idea is like a newborn baby, don't compare it to the standardized human running in the field. And stupid-sounding ideas coming from domain experts are valuable either way—wrong or right. If it's wrong, you'd probably make the same mistake. If it's right, it's a legend waiting to grow.
+8. Embrace crazy-sounding ideas, especially when they come from sensible people. An idea is like a newborn baby, don't compare it to the standardized human running in the field. And crazy-sounding ideas coming from domain experts are valuable either way, wrong or right. If it's wrong, you'd probably make the same mistake and you will want to know why. If it's right, it's gold, and you are in the very wrong to dismiss.
 
 9. Think without many filters, don't care too much about naysayers, listen to everyone, then make your own decision.
 
