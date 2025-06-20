@@ -1,43 +1,43 @@
 [Human taste in the AI era]
 
-I have been questioned by a curious girl about human taste as an edge in the AI era. This question is better learned by building than writing, but I think it is still helpful writing out some building principles to get the goodness of human taste when it comes. At the end I will give the definition of "human taste" that is most useful.
+I have been questioned by a curious girl about human taste as an edge in the AI era. This question is better learned by building than writing, but I think it is still helpful writing out some building principles to get the goodness of human taste when it comes. At the end, I will give the definition of "human taste" that is most useful.
 
 1. Embrace technology: This goes without saying, not just AI but all the other technologies. Use them with passion and care, give AI and you time to co-adopt. Also, be ruthless in cutting technologies that slow you down or take your important time away.
 
-2. Simplify what you want get done, then do it. Simplification has 2 advantages: Clear and precise context gives AI the best condition to work. And clarity of thoughts allow you to figure the expected outcome in detail, and detail matters. If the problem is too big for a simple solution, break it down.
+2. Simplify what you want to get done, then do it. Simplification has 2 advantages: Clear and precise context gives AI the best condition to work. And clarity of thoughts allows you to figure the expected outcome in detail, and detail matters. If the problem is too big for a simple solution, break it down.
 
-3. Occasionally think about where you're going and what the science is telling you. Science guides you like a river flow into the ocean, don't resist, embrace. But science is only reality revealed as things get built, it doesn't lead to anywhere so you have to find the Northern star yourself.
+3. Occasionally think about where you're going and what the science is telling you. Science guides you like a river flowing into the ocean, don't resist, embrace. But science is only reality revealed as things get built, it doesn't lead to anywhere so you have to find the Northern Star yourself.
 
 4. Be consciously fanatic about excellence, and let your brain work on the subconscious magic. This helps you connect the dots to solve a hard problem.
 
-5. Care about people: Human is better than AI at caring what other human think and feel. Embrace this, keep racking your head to please your user and feel what will a human feel. Be a proxy for your user and use your product relentlessly.
+5. Care about people: Humans are better than AI at caring what other humans think and feel. Embrace this, keep racking your head to please your user and feel what a human will feel. Be a proxy for your user and use your product relentlessly.
 
-6. Wiggle the problem space if you can, most people keep on hammering the solution space, especially in corporate environment. Sometimes a little shift in the problem space is what needed for a significant gain of excellence.
+6. Wiggle the problem space if you can, most people keep on hammering the solution space, especially in corporate environments. Sometimes a little shift in the problem space is what’s needed for a significant gain of excellence.
 
-7. Have deep conversations with your users, not A/B testings. Paul Graham was right about do things that don't scale, the most striking thing about that is the conversation you have with your users. Or yourself becomes your own user, love your product and be critical with it for the better. Try to see if you remember the name of your users.
+7. Have deep conversations with your users, not A/B testing. Paul Graham was right about doing things that don't scale, the most striking thing about that is the conversation you have with your users. Or you become the user, love your product and be critical with it for the better. Try to see if you remember the names of your users.
 
-8. Vision in decades, then work in hours. Bias towards action, work with less information than you'd want and less certainty than you have. Move incrementally and bravely in darkness, keep caring for your user, again, that's your Northern star.
+8. Vision in decades, then work in hours. Bias toward action, work with less information than you'd want and less certainty than you have. Move incrementally and bravely in darkness, keep caring for your user, again, that's your Northern Star.
 
-9. Embrace stupid sounding idea, especially when it comes from sensible people. An idea is like a new born baby, don't compare it to the standardized human running in the field. And stupid sounding idea coming from domain experts is valuable either wrong or right, if it's wrong, you'd probably make the same mistake, if it's right, it's a legend waiting to grow.
+9. Embrace stupid-sounding ideas, especially when they come from sensible people. An idea is like a newborn baby, don't compare it to the standardized human running in the field. And stupid-sounding ideas coming from domain experts are valuable either way—wrong or right. If it's wrong, you'd probably make the same mistake. If it's right, it's a legend waiting to grow.
 
-10. Think without much filters, don't care too much about nei sayer, listen to everyone, then make your own decision.
+10. Think without many filters, don't care too much about naysayers, listen to everyone, then make your own decision.
 
-11. Trust the future, the technology, this is the age of nerds, we build the world. Besides, what kind of builder who wouldn't trust the future, your are supposed to implement the future. Not just trusting it will be better, but better in the way you want it to be.
+11. Trust the future, the technology, this is the age of nerds, we build the world. Besides, what kind of builder wouldn't trust the future? You are supposed to implement the future. Not just trusting it will be better, but better in the way you want it to be.
 
-12. Work hard, harder than what most people feels comfortable. But don't work blindly, on every moment work on the most promising thing, keep wining, keep the momentum of work.
+12. Work hard, harder than what most people feel comfortable with. But don't work blindly, at every moment work on the most promising thing, keep winning, keep the momentum of work.
 
-13. Don't be afraid to work on stupid looking things. The most valuable insights happens when you work on manual unknown tasks, and you wouldn't know it's a valuable insight until much later.
+13. Don't be afraid to work on stupid-looking things. The most valuable insights happen when you work on manual unknown tasks, and you wouldn't know it's a valuable insight until much later.
 
-14. Don't make excuses, everyone has flaws, the winners embrace their flaws and work to their strength. Keep the "I can do it, let me take care of this, don't worry" attitude.
+14. Don't make excuses, everyone has flaws, the winners embrace their flaws and work to their strengths. Keep the "I can do it, let me take care of this, don't worry" attitude.
 
-15. It's good to be scrappy. Suites and ties are not for builders, real work gets done when your feet is off the floor in your towel.
+15. It's good to be scrappy. Suits and ties are not for builders, real work gets done when your feet are off the floor in your towel.
 
-16. Beware of professional fakers, fight bureaucracy as soon as you see it, don't let the org chart gets in the way of people working effectively together. Don't worry about job title, substance over status.
+16. Beware of professional fakers, fight bureaucracy as soon as you see it, don't let the org chart get in the way of people working effectively together. Don't worry about job titles, substance over status.
 
-17. Ignore numbers used to score your work, anything with an artificial scoring system is fake, including salary. Focus on result, do not excuse bad result with good execution, good result is part of the definition of good execution.
+17. Ignore numbers used to score your work, anything with an artificial scoring system is fake, including salary. Focus on results, do not excuse bad results with good execution. Good results are part of the definition of good execution.
 
-18. It is ok to seem like you are suffering a mild form of Asperger if it helps you hold on to your conviction.
+18. It is ok to seem like you are suffering a mild form of Asperger's if it helps you hold on to your conviction.
 
-19. Being a good builder is lonely, the kind of loneliness that is hard to put into words because you are in search of excellence, which is too rare, get used to walking alone. But you don't have to be too lonely, the people who want excellence is lonely too. Look for them, talk with them, they are eagerly talking to you as you are to them.
+19. Being a good builder is lonely, the kind of loneliness that is hard to put into words because you are in search of excellence, which is too rare. Get used to walking alone. But you don't have to be too lonely, the people who want excellence are lonely too. Look for them, talk with them, they are as eagerly talking to you as you are to them.
 
-Human taste in the age of era: a combination of smartness, hard work, passion, empathy, excellence and embracing technology that raises above establish standard to serve humankind from human builders.
+Human taste in the AI era: a combination of smartness, hard work, passion, empathy, excellence, and embracing technology that rises above established standards to serve humankind from human builders.
